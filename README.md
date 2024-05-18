@@ -10,6 +10,6 @@ Extract russian_roulette_extreme 1.0 and launche russian_roulette_extreme.exe.
 
 ---
 # Download zip file 👇
-# [russian_roulette_extreme.zip](russian_roulette_extreme_1.0.zip)
+# [russian_roulette_extreme.zip](files/russian_roulette_extreme_1.0.zip)
 
 
