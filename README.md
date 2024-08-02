@@ -2,7 +2,7 @@
 russian_roulette_extreme for reel geek (programm in french soon in english)
 
 # Reminder:
-the programme can crash your pc if you lose other details in readme.txt in commpressed folder (txt in french soon in english).
+the programme can crash your pc if you lose other details in pdf rules in the website: https://gabinator80.github.io/RussianRouletteExtreme/index.html.
 
 ---
 # Installation:
